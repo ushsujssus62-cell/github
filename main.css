@@ -1,0 +1,38 @@
+.aaa{
+     text-align: center;
+    color: #ffffff;
+    background: rgb(84, 170, 84)
+    
+}
+.ppp{
+    text-align: center;
+    color: #ffffff;
+    background: rgb(84, 170, 84)
+   
+}
+.border{
+    border: 5px solid black;
+    width: 5px;
+    margin: auto;
+}.bot{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    width: 800px;
+    border: 1px solid black;
+}
+iframe{
+    width: 100%;
+}
+.r{
+    height: 60px;
+}
+.ee{
+    background-color: green;
+}
+.bbbb{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
